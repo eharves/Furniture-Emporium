@@ -1,0 +1,40 @@
+body {
+    background-color: oldlace;
+}
+h2{
+    margin: 3px;
+    padding: 10px;
+    color: black;
+    text-align: left;
+    width: 200px;
+    
+    
+
+}
+p{
+    color: black;
+    text-align: left;
+    margin: 3px;
+    font-size: large;
+
+
+}
+button{
+    background-color: green;
+    color: white;
+    size-adjust: 30px;
+    font-size: large;
+    width: 300px;
+}
+.pTag{
+    border: solid black;
+    font-style: normal;
+    width: 300px;
+}
+
+#pId{
+    font-size: larger;
+    color: red;
+    border: solid;
+    width: 300px;
+}
