@@ -30,6 +30,7 @@ button{
     border: solid black;
     font-style: normal;
     width: 300px;
+    background-color: white;
 }
 
 #pId{
